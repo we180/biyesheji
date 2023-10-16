@@ -1,0 +1,332 @@
+{
+	"easycom": {
+		"^u-(.*)": "@/uview-ui/components/u-$1/u-$1.vue"
+	},
+	// "condition": { //模式配置，仅开发期间生效
+	// 	"current": 0, //当前激活的模式(list 的索引项)
+	// 	"list": [{
+	// 		"name": "test", //模式名称
+	// 		"path": "pages/componentsC/test/index", //启动页面，必选
+	// 		"query": "uuid=c4bba940-f69e-11ea-a419-6bafda9d095e&__id__=1" //启动参数，在页面的onLoad函数里面得到
+	// 	}]
+	// },
+	"pages": [
+		{
+            "path" : "pages/mypages/login/guide",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "引导页",
+                "enablePullDownRefresh": false,
+				"navigationStyle":"custom"
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/login/login",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "登录",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/main/main",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "主页",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/allservices",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "全部服务",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/china_zhizao/china_zhizao",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "中国制造",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/home/home",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "个人中心",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/news/news",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "新闻",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/news/newsindex",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "新闻详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/news/newslist",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "新闻列表",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/home/userinfo",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "个人信息",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/home/dingdan_list",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "订单列表",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/home/changepwd",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "修改密码",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/home/advise",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "意见反馈",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/car_park/car_park",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "停哪儿",
+                "enablePullDownRefresh": false,
+				"navigationStyle":"custom"
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/car_park/park_details",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "停车场详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/car_park/park_list",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "停车记录",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/find_house/find_house",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "找房子",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/find_house/house_details",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "房源详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/city_metor/city_metor",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "城市地铁",
+                "enablePullDownRefresh": false,
+				"navigationStyle":"custom"
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/city_metor/metor_details",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "地铁详情",
+                "enablePullDownRefresh": false,
+				"navigationStyle":"custom"
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/city_metor/metro_map",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "地铁地图",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/china_zhizao/changshang_De",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "厂商详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/china_zhizao/chanpin_De",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "产品与解决方案详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/china_zhizao/changshang_list/changshang_list",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "厂商列表",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/china_zhizao/chanpin_list/chanpin_list",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "产品列表",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/china_zhizao/huodong/huodong",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "展会活动",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/china_zhizao/zhaopin/zhaopin",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "厂商招聘",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/china_zhizao/ruzhu/ruzhu",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "厂商入驻",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/china_zhizao/huodong/huodong_details",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "展会详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/china_zhizao/zhaopin/zhaping_details",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "招聘详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uView",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#FFFFFF"
+	},
+	"tabBar": {
+		"color": "#909399",
+		"selectedColor": "#303133",
+		"backgroundColor": "#FFFFFF",
+		"borderStyle": "black",
+		"list": [{
+				"pagePath": "pages/mypages/main/main",
+				"iconPath": "static/myimgs/main.png",
+				"selectedIconPath": "static/myimgs/main-1.png",
+				"text": "主页"
+			},
+			{
+				"pagePath": "pages/mypages/allservices/allservices",
+				"iconPath": "static/myimgs/service.png",
+				"selectedIconPath": "static/myimgs/service-1.png",
+				"text": "全部服务"
+			},
+			{
+				"pagePath": "pages/mypages/china_zhizao/china_zhizao",
+				"iconPath": "static/myimgs/huodong.png",
+				"selectedIconPath": "static/myimgs/huodong-1.png",
+				"text": "中国制造"
+			},
+			{
+				"pagePath": "pages/mypages/news/news",
+				"iconPath": "static/myimgs/news.png",
+				"selectedIconPath": "static/myimgs/news-1.png",
+				"text": "新闻"
+			},
+			{
+				"pagePath": "pages/mypages/home/home",
+				"iconPath": "static/myimgs/home.png",
+				"selectedIconPath": "static/myimgs/home-1.png",
+				"text": "个人中心"
+			}
+		]
+	}
+}
