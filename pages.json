@@ -231,7 +231,69 @@
 		    }
 		    
 		},
-		
+		{
+		    "path" : "pages/mypages/allservices/menzhen/menzhen",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "门诊预约",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/allservices/menzhen/hos_details",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "医院简介",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/allservices/menzhen/jiuzhen_card",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "就诊人卡片",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/allservices/menzhen/card_index",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "就诊人卡片信息",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/allservices/menzhen/keshifenzhen",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "门诊科室分诊",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/allservices/menzhen/guahao",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "挂号",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/allservices/menzhen/new_guahao",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "挂号信息",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		},
 		
 		
 		
