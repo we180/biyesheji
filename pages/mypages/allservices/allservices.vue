@@ -33,6 +33,10 @@
 					uni.navigateTo({
 						url:'wuliuchaxun/wuliuchaxun'
 					})
+				}else if(id==11){
+					uni.navigateTo({
+						url:'menzhen/menzhen'
+					})
 				}
 				else{
 					console.log(id);
