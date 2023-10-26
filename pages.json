@@ -129,6 +129,9 @@
             }
             
         }
+		
+		
+		//固定模块：停车场
         ,{
             "path" : "pages/mypages/allservices/car_park/car_park",
             "style" :                                                                                    
@@ -157,6 +160,9 @@
             }
             
         }
+		
+		
+		//固定模块：找房子
         ,{
             "path" : "pages/mypages/allservices/find_house/find_house",
             "style" :                                                                                    
@@ -175,6 +181,9 @@
             }
             
         }
+		
+		
+		//固定模块：城市地铁
         ,{
             "path" : "pages/mypages/allservices/city_metor/city_metor",
             "style" :                                                                                    
@@ -204,6 +213,9 @@
             }
             
         },
+		
+		
+		//固定模块：物流查询
 		{
 		    "path" : "pages/mypages/allservices/wuliuchaxun/wuliuchaxun",
 		    "style" :                                                                                    
@@ -231,6 +243,9 @@
 		    }
 		    
 		},
+		
+		
+		//固定模块：门诊预约
 		{
 		    "path" : "pages/mypages/allservices/menzhen/menzhen",
 		    "style" :                                                                                    
@@ -294,8 +309,9 @@
 		    }
 		    
 		},
-		//固定模块：垃圾分类
 		
+		
+		//固定模块：垃圾分类
 		{
 		    "path" : "pages/mypages/allservices/lajifenlei/lajifenlei",
 		    "style" :                                                                                    
@@ -348,7 +364,6 @@
 		        "navigationBarTitleText": "垃圾详情",
 		        "enablePullDownRefresh": false
 		    }
-		    
 		},
 		
 		
