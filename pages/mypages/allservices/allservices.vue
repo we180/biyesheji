@@ -29,6 +29,10 @@
 					uni.navigateTo({
 						url:'city_metor/city_metor'
 					})
+				}else if(id==20){
+					uni.navigateTo({
+						url:'wuliuchaxun/wuliuchaxun'
+					})
 				}
 				else{
 					console.log(id);

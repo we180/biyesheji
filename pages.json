@@ -203,8 +203,49 @@
                 "enablePullDownRefresh": false
             }
             
-        }
-        ,{
+        },
+		{
+		    "path" : "pages/mypages/allservices/wuliuchaxun/wuliuchaxun",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "物流查询",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/allservices/wuliuchaxun/gongsi_details",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "物流公司详情",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/allservices/wuliuchaxun/yundansousuo",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "搜索",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		},
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		{
             "path" : "pages/mypages/china_zhizao/changshang_De",
             "style" :                                                                                    
             {
