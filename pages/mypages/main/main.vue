@@ -10,13 +10,13 @@
 		<u-gap></u-gap>
 		<view class="type">
 			<view class="typelist" v-for="(item,typelistid) in typelist.slice(0,9)" :key="typelistid" @click="clickicon(typelistid)">
-				<u-icon :name="baseUrl+item.imgUrl" :label="item.serviceName" label-pos="bottom" size="80"></u-icon>
+				<u-icon :name="baseUrl+item.imgUrl" :label="item.serviceName" label-pos="bottom" size="80" label-size="24"></u-icon>
 			</view>
 			<view class="typelist" @click="toallservices">
-				<u-icon name="more-dot-fill" label="更多服务" label-pos="bottom" size="80"></u-icon>
+				<u-icon name="more-dot-fill" label="更多服务" label-pos="bottom" size="80" label-size="24"></u-icon>
 			</view>
 		</view>
-		<u-section title="热门主题" :right="false" font-size="40"></u-section>
+		<u-section title="热门主题" :right="false" font-size="33"></u-section>
 		<u-gap></u-gap>
 		<view class="hotpart">
 			<view class="hotpartlist" v-for="(item,hotpartid) in hotpart" :key="hotpartid" @click="tohotpart_De(hotpartid)">
@@ -24,7 +24,7 @@
 				<h3 class="u-line-2">{{item.title}}</h3>
 			</view>
 		</view>
-		<u-section title="新闻专栏" :right="false" font-size="40"></u-section>
+		<u-section title="新闻专栏" :right="false" font-size="33"></u-section>
 		<view class="news">
 			<u-tabs :list="newstype" :current="current" @change="changetab"></u-tabs>
 			<view class="newslist" v-for="(item,newsid) in news" :key="newsid" @click="tonews_De(newsid)">
@@ -63,7 +63,7 @@
 			clickicon(id){
 				if(id==8){
 					uni.navigateTo({
-						url:'../allservices/find_house/find_house'
+						url:"../allservices/car_park/car_park"
 					})
 				}else{
 					console.log(id);
@@ -113,7 +113,7 @@
 				// console.log(res2);
 				this.typelist=res2.rows
 				this.typelist.sort(function(a,b){
-					return b.sort-a.sort
+					return a.sort-b.sort
 				})
 				let res3=await this.$u.get('/prod-api/press/press/list?hot=Y')
 				this.hotpart=res3.rows

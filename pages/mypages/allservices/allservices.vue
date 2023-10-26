@@ -17,15 +17,15 @@
 		},
 		methods: {
 			clickicon(id){
-				if(id==23){
+				if(id==8){
 					uni.navigateTo({
 						url:'car_park/car_park'
 					})
-				}else if(id==8){
+				}else if(id==15){
 					uni.navigateTo({
 						url:'find_house/find_house'
 					})
-				}else if(id==14){
+				}else if(id==9){
 					uni.navigateTo({
 						url:'city_metor/city_metor'
 					})
@@ -39,7 +39,7 @@
 				console.log(res2);
 				this.typelist=res2.rows
 				this.typelist.sort(function(a,b){
-					return b.sort-a.sort
+					return a.sort-b.sort
 				})
 			}
 		},
