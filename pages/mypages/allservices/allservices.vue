@@ -37,6 +37,10 @@
 					uni.navigateTo({
 						url:'menzhen/menzhen'
 					})
+				}else if(id==3){
+					uni.navigateTo({
+						url:'lajifenlei/lajifenlei'
+					})
 				}
 				else{
 					console.log(id);
