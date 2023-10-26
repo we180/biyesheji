@@ -294,7 +294,62 @@
 		    }
 		    
 		},
+		//固定模块：垃圾分类
 		
+		{
+		    "path" : "pages/mypages/allservices/lajifenlei/lajifenlei",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "垃圾分类",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/allservices/lajifenlei/sousuo",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "搜索页",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/allservices/lajifenlei/news_details",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "新闻详情",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/allservices/lajifenlei/fenlei",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "分类页",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/allservices/lajifenlei/fenleijieshao",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "分类介绍",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/allservices/lajifenlei/laji_details",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "垃圾详情",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		},
 		
 		
 		
