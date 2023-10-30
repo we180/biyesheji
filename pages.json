@@ -369,6 +369,43 @@
 		
 		
 		
+	//固定模块：政府
+		{
+		    "path" : "pages/mypages/allservices/zhengfu/zhengfu",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "政府服务热线",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/allservices/zhengfu/suqiulist",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "诉求列表",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/allservices/zhengfu/xinjiansuqiu",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "新建诉求",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/allservices/zhengfu/suqiu_details",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "诉求详情",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		},
 		
 		
 		

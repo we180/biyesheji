@@ -37,9 +37,13 @@
 					uni.navigateTo({
 						url:'menzhen/menzhen'
 					})
-				}else if(id==3){
+				}else if(id==7){
 					uni.navigateTo({
 						url:'lajifenlei/lajifenlei'
+					})
+				}else if(id==6){
+					uni.navigateTo({
+						url:'zhengfu/zhengfu'
 					})
 				}
 				else{
