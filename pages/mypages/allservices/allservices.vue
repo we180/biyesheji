@@ -89,6 +89,10 @@
 					uni.navigateTo({
 						url:'chongwuyiyuan/chongwuyiyuan'
 					})
+				}else if(id==21){
+					uni.navigateTo({
+						url:'aixingongyi/aixingongyi'
+					})
 				}
 				
 				else{

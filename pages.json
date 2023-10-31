@@ -136,14 +136,24 @@
             "path" : "pages/mypages/allservices/car_park/car_park",
             "style" :                                                                                    
             {
-                "navigationBarTitleText": "停哪儿",
+                "navigationBarTitleText": "停哪儿服务",
+                "enablePullDownRefresh": false
+				
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/car_park/tingchechang/tingchechang",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "停车场",
                 "enablePullDownRefresh": false,
 				"navigationStyle":"custom"
             }
             
         }
         ,{
-            "path" : "pages/mypages/allservices/car_park/park_details",
+            "path" : "pages/mypages/allservices/car_park/tingchechang/tingchechang_details",
             "style" :                                                                                    
             {
                 "navigationBarTitleText": "停车场详情",
@@ -152,7 +162,7 @@
             
         }
         ,{
-            "path" : "pages/mypages/allservices/car_park/park_list",
+            "path" : "pages/mypages/allservices/car_park/tingchechang/tingchejilu",
             "style" :                                                                                    
             {
                 "navigationBarTitleText": "停车记录",
@@ -160,6 +170,81 @@
             }
             
         }
+        ,{
+            "path" : "pages/mypages/allservices/car_park/zhaochewei/zhaochewei",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "找车位",
+                "enablePullDownRefresh": false,
+				"navigationStyle":"custom"
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/car_park/zhaochewei/xinxijiucuo",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "信息纠错",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/car_park/changneizhaoche/changneizhaoche",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "场内找车",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/car_park/nuoche/nuoche",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "挪车",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/car_park/cheshenghuo/cheshenghuo",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "车生活",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/car_park/cheshenghuo/news_details",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "资讯详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/car_park/cheshenghuo/youhaojisuan",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "油耗计算",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/car_park/cheshenghuo/addjilu",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "添加加油记录",
+                "enablePullDownRefresh": false,
+				"navigationStyle":"custom"
+            }
+            
+        }
+        
 		
 		
 		//固定模块：找房子
@@ -852,6 +937,37 @@
             
         }
         ,
+	//固定模块：爱心捐献
+		{
+		    "path" : "pages/mypages/allservices/aixingongyi/aixingongyi",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "爱心公益",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+            "path" : "pages/mypages/allservices/aixingongyi/gongyi_list",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "公益列表",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/aixingongyi/gonyi_details",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "公益详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,
+		
+		
 		
 		
 		{
