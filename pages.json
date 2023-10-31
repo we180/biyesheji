@@ -655,6 +655,37 @@
             
         }
         ,
+	//固定模块：智慧交管
+		{
+		    "path" : "pages/mypages/allservices/zhihuijiaoguan/zhihuijiaoguan",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "违章查询",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+            "path" : "pages/mypages/allservices/zhihuijiaoguan/weizhang_list",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "违章记录",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/zhihuijiaoguan/weizhang_details",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "违法详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,
+		
+		
 		
 		
 		
