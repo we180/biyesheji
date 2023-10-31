@@ -85,6 +85,10 @@
 					uni.navigateTo({
 						url:'waimai/waimai'
 					})
+				}else if(id==19){
+					uni.navigateTo({
+						url:'chongwuyiyuan/chongwuyiyuan'
+					})
 				}
 				
 				else{

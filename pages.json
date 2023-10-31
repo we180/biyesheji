@@ -805,7 +805,53 @@
             }
             
         },
-		
+	//固定模块：宠物医院
+		{
+		    "path" : "pages/mypages/allservices/chongwuyiyuan/chongwuyiyuan",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "宠物医院",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+            "path" : "pages/mypages/allservices/chongwuyiyuan/exp_details",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "案例详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/chongwuyiyuan/find_doc",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "找医生",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/chongwuyiyuan/wenzhen",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "问诊",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/chongwuyiyuan/wenzhen_details",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "问诊详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,
 		
 		
 		{
