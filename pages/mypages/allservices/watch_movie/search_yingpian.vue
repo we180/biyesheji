@@ -1,0 +1,36 @@
+<template>
+	<view>
+		<u-search @custom="search" @search="search"></u-search>
+		<view class="yingpianlist" v-for="(item,yingpianid) in yingpian" :key="yingpianid">
+			<u-image width="100%" height="300rpx" :src="baseUrl+item.cover"></u-image> 
+			<h2 class="u-line-2" style="text-align: center;">{{item.name}}</h2>
+		</view>
+	</view>
+</template>
+
+<script>
+	export default {
+		data() {
+			return {
+				yingpian: []
+			}
+		},
+		methods: {
+			search(index) {
+				this.$u.get('/prod-api/api/movie/film/list?name=' + index).then(res => {
+					this.yingpian = res.rows
+					console.log(res);
+				})
+			},
+		}
+	}
+</script>
+
+<style scoped>
+	.yingpianlist{
+		margin: 10rpx;
+		padding: 10rpx;
+		border-radius: 20rpx;
+		border: 2rpx solid #aaa;
+	}
+</style>

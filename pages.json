@@ -774,21 +774,146 @@
 		    "path" : "pages/mypages/allservices/watch_movie/watch_movie",
 		    "style" :                                                                                    
 		    {
-		        "navigationBarTitleText": "看电影",
+		        "navigationBarTitleText": "主页",
 		        "enablePullDownRefresh": false
 		    }
 		    
 		}
 		,{
-            "path" : "pages/mypages/allservices/watch_movie/movie_details",
+            "path" : "pages/mypages/allservices/watch_movie/yingyuan/yingyuan",
             "style" :                                                                                    
             {
-                "navigationBarTitleText": "电影详情",
+                "navigationBarTitleText": "影院",
                 "enablePullDownRefresh": false
             }
             
         }
-        ,
+        ,{
+            "path" : "pages/mypages/allservices/watch_movie/yingpian/yingpian",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "影片",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/watch_movie/search_yingpian",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "搜索",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/watch_movie/yingpian_details",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "影片详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/watch_movie/goupiao/goupiao",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "选择影院和场次",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/watch_movie/goupiao/choose_changci",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "选择场次",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/watch_movie/goupiao/xuanzuo",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "选座",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/watch_movie/goupiao/getcode",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "二维码兑换",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/watch_movie/yugao/yugao",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "影片预告",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/watch_movie/tuijianyingpian/tuijianyingpian",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "推荐影片",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/watch_movie/xingwen/xingwen",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "星闻",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/watch_movie/yingping/yingping",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "影评",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/watch_movie/xingwen/xingwen_details",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "新闻详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/watch_movie/yingyuan/yingyuan_details",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "影院详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/watch_movie/goupiao/xuanzuo_2",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "选座",
+                "enablePullDownRefresh": false
+            }
+            
+        },
 	//固定模块：外卖
 		{
 		    "path" : "pages/mypages/allservices/waimai/waimai",
