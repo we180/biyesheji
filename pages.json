@@ -369,7 +369,7 @@
 		
 		
 		
-	//固定模块：政府
+	//固定模块：政府服务热线
 		{
 		    "path" : "pages/mypages/allservices/zhengfu/zhengfu",
 		    "style" :                                                                                    
@@ -407,9 +407,73 @@
 		    
 		},
 		
-		
-		
-		
+	//固定模块：青年驿站	
+		{
+		    "path" : "pages/mypages/allservices/qingnianyizhan/qingnianyizhan",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "青年驿站",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+            "path" : "pages/mypages/allservices/qingnianyizhan/yizhan_details",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "驿站详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/qingnianyizhan/rencaizhengce",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "人才政策",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/qingnianyizhan/zhengce_details",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "政策内容",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,
+	//固定模块：数字图书馆
+		{
+		    "path" : "pages/mypages/allservices/shuzi_library/shuzi_library",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "数字图书馆",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+            "path" : "pages/mypages/allservices/shuzi_library/library_details",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "图书馆详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/shuzi_library/library_comment",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "评论",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,
 		
 		
 		

@@ -45,6 +45,14 @@
 					uni.navigateTo({
 						url:'zhengfu/zhengfu'
 					})
+				}else if(id==22){
+					uni.navigateTo({
+						url:'qingnianyizhan/qingnianyizhan'
+					})
+				}else if(id==2){
+					uni.navigateTo({
+						url:'shuzi_library/shuzi_library'
+					})
 				}
 				else{
 					console.log(id);
