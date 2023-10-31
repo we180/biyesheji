@@ -512,6 +512,38 @@
             
         }
         ,
+	//固定模块：生活缴费
+		{
+		    "path" : "pages/mypages/allservices/shenghuojiaofei/shenghuojiaofei",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "生活交费",
+		        "enablePullDownRefresh": false,
+				"navigationStyle":"custom"
+		    }
+		    
+		}
+		,{
+            "path" : "pages/mypages/allservices/shenghuojiaofei/jiaofei",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "交费",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/allservices/shenghuojiaofei/jiaofei_history",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "交费历史记录",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,
+		
+		
 		
 		
 		

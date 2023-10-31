@@ -57,7 +57,13 @@
 					uni.navigateTo({
 						url:'zhiyuanhuodong/zhiyuanhuodong'
 					})
-				}else{
+				}else if(id==13){
+					uni.navigateTo({
+						url:'shenghuojiaofei/shenghuojiaofei'
+					})
+				}
+				
+				else{
 					console.log(id);
 				}
 			},
