@@ -65,7 +65,28 @@
 					uni.navigateTo({
 						url:"../allservices/car_park/car_park"
 					})
-				}else{
+				}else if(id==2){
+					uni.navigateTo({
+						url:'../allservices/shuzi_library/shuzi_library'
+					})
+				}else if(id==3){
+					uni.navigateTo({
+						url:'../allservices/lvshizixun/lvshizixun'
+					})
+				}else if(id==4){
+					uni.navigateTo({
+						url:'../allservices/zhiyuanhuodong/zhiyuanhuodong'
+					})
+				}else if(id==6){
+					uni.navigateTo({
+						url:'../allservices/zhengfu/zhengfu'
+					})
+				}else if(id==7){
+					uni.navigateTo({
+						url:'../allservices/lajifenlei/lajifenlei'
+					})
+				}
+				else{
 					console.log(id);
 				}
 			},
