@@ -684,7 +684,26 @@
             
         }
         ,
-		
+	//固定模块：看电影
+		{
+		    "path" : "pages/mypages/allservices/watch_movie/watch_movie",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "看电影",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+            "path" : "pages/mypages/allservices/watch_movie/movie_details",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "电影详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,
 		
 		
 		

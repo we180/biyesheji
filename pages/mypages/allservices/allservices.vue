@@ -77,6 +77,10 @@
 					uni.navigateTo({
 						url:'zhihuijiaoguan/zhihuijiaoguan'
 					})
+				}else if(id==16){
+					uni.navigateTo({
+						url:'watch_movie/watch_movie'
+					})
 				}
 				
 				else{
