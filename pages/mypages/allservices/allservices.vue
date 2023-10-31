@@ -69,6 +69,10 @@
 					uni.navigateTo({
 						url:'lvshizixun/lvshizixun'
 					})
+				}else if(id==18){
+					uni.navigateTo({
+						url:'huodong_guanli/huodong_guanli'
+					})
 				}
 				
 				else{
