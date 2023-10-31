@@ -542,7 +542,53 @@
             
         }
         ,
-		
+	//固定模块：找工作
+		{
+		    "path" : "pages/mypages/allservices/zhaogongzuo/zhaogongzuo",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "找工作",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/allservices/zhaogongzuo/zhaoping_details",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "招聘详情",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/allservices/zhaogongzuo/toudijilu",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "投递记录",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/allservices/zhaogongzuo/gerenjianli",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "个人简历",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/allservices/zhaogongzuo/change_jianli",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "编辑简历",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,
 		
 		
 		

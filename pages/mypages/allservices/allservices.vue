@@ -61,6 +61,10 @@
 					uni.navigateTo({
 						url:'shenghuojiaofei/shenghuojiaofei'
 					})
+				}else if(id==17){
+					uni.navigateTo({
+						url:'zhaogongzuo/zhaogongzuo'
+					})
 				}
 				
 				else{
