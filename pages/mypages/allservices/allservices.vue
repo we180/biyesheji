@@ -53,8 +53,11 @@
 					uni.navigateTo({
 						url:'shuzi_library/shuzi_library'
 					})
-				}
-				else{
+				}else if(id==4){
+					uni.navigateTo({
+						url:'zhiyuanhuodong/zhiyuanhuodong'
+					})
+				}else{
 					console.log(id);
 				}
 			},

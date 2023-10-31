@@ -474,7 +474,44 @@
             
         }
         ,
-		
+	//固定模块：志愿活动	
+		{
+		    "path" : "pages/mypages/allservices/zhiyuanhuodong/zhiyuanhuodong",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "志愿活动",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/allservices/zhiyuanhuodong/zhiyuanhuodong_index",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "志愿活动",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/allservices/zhiyuanhuodong/my_huodong",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "我的活动",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+            "path" : "pages/mypages/allservices/zhiyuanhuodong/huodong_details",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "活动详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,
 		
 		
 		
