@@ -81,6 +81,10 @@
 					uni.navigateTo({
 						url:'watch_movie/watch_movie'
 					})
+				}else if(id==14){
+					uni.navigateTo({
+						url:'waimai/waimai'
+					})
 				}
 				
 				else{
