@@ -49,15 +49,6 @@
             
         }
         ,{
-            "path" : "pages/mypages/china_zhizao/china_zhizao",
-            "style" :                                                                                    
-            {
-                "navigationBarTitleText": "中国制造",
-                "enablePullDownRefresh": false
-            }
-            
-        }
-        ,{
             "path" : "pages/mypages/home/home",
             "style" :                                                                                    
             {
@@ -1090,92 +1081,25 @@
             }
             
         }
-        ,
+    
+	
+	
+	
+	
+	
+	
+	
+	
+        ,{
+            "path" : "pages/mypages/xianxuan/xianxuan_mulu",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "社会服务",
+                "enablePullDownRefresh": false
+            }
+            
+        }
 		
-		
-		
-		
-		{
-            "path" : "pages/mypages/china_zhizao/changshang_De",
-            "style" :                                                                                    
-            {
-                "navigationBarTitleText": "厂商详情",
-                "enablePullDownRefresh": false
-            }
-            
-        }
-        ,{
-            "path" : "pages/mypages/china_zhizao/chanpin_De",
-            "style" :                                                                                    
-            {
-                "navigationBarTitleText": "产品与解决方案详情",
-                "enablePullDownRefresh": false
-            }
-            
-        }
-        ,{
-            "path" : "pages/mypages/china_zhizao/changshang_list/changshang_list",
-            "style" :                                                                                    
-            {
-                "navigationBarTitleText": "厂商列表",
-                "enablePullDownRefresh": false
-            }
-            
-        }
-        ,{
-            "path" : "pages/mypages/china_zhizao/chanpin_list/chanpin_list",
-            "style" :                                                                                    
-            {
-                "navigationBarTitleText": "产品列表",
-                "enablePullDownRefresh": false
-            }
-            
-        }
-        ,{
-            "path" : "pages/mypages/china_zhizao/huodong/huodong",
-            "style" :                                                                                    
-            {
-                "navigationBarTitleText": "展会活动",
-                "enablePullDownRefresh": false
-            }
-            
-        }
-        ,{
-            "path" : "pages/mypages/china_zhizao/zhaopin/zhaopin",
-            "style" :                                                                                    
-            {
-                "navigationBarTitleText": "厂商招聘",
-                "enablePullDownRefresh": false
-            }
-            
-        }
-        ,{
-            "path" : "pages/mypages/china_zhizao/ruzhu/ruzhu",
-            "style" :                                                                                    
-            {
-                "navigationBarTitleText": "厂商入驻",
-                "enablePullDownRefresh": false
-            }
-            
-        }
-        ,{
-            "path" : "pages/mypages/china_zhizao/huodong/huodong_details",
-            "style" :                                                                                    
-            {
-                "navigationBarTitleText": "展会详情",
-                "enablePullDownRefresh": false
-            }
-            
-        }
-        ,{
-            "path" : "pages/mypages/china_zhizao/zhaopin/zhaping_details",
-            "style" :                                                                                    
-            {
-                "navigationBarTitleText": "招聘详情",
-                "enablePullDownRefresh": false
-            }
-            
-        }
     ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
@@ -1198,13 +1122,13 @@
 				"pagePath": "pages/mypages/allservices/allservices",
 				"iconPath": "static/myimgs/service.png",
 				"selectedIconPath": "static/myimgs/service-1.png",
-				"text": "全部服务"
+				"text": "常规服务"
 			},
 			{
-				"pagePath": "pages/mypages/china_zhizao/china_zhizao",
+				"pagePath": "pages/mypages/xianxuan/xianxuan_mulu",
 				"iconPath": "static/myimgs/huodong.png",
 				"selectedIconPath": "static/myimgs/huodong-1.png",
-				"text": "中国制造"
+				"text": "社会服务"
 			},
 			{
 				"pagePath": "pages/mypages/news/news",
