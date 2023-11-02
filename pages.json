@@ -1202,6 +1202,99 @@
 		}
 		
 		
+		//固定模块 智慧养老
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuiyanglao/zhihuiyanglao",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "智慧养老",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuiyanglao/jizhongjiance/jizhongjiance",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "集中检测",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuiyanglao/search_yanglao",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "搜索",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuiyanglao/pingtaijiance/pingtaijiance",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "平台检测",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuiyanglao/xunjianjilu/xunjianjilu",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "巡检记录",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuiyanglao/xunjianjilu/xunjian_pingjia",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "评价",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuiyanglao/jiankangpinggu/jiankangpinggu",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "健康评估",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuiyanglao/jiankangpinggu/pinggu_res",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "评估结果",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuiyanglao/yuyue/yuyue",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "预约养老院",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuiyanglao/yuyue/yuyue_index",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "机构详情",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		
+		
     ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
