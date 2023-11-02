@@ -1100,6 +1100,108 @@
             
         }
 		
+		//固定模块 ：中国制造
+		,{
+			"path" : "pages/mypages/xianxuan/china_zhizao/china_zhizao",
+			"style" :                                                                                    
+			{
+				"navigationBarTitleText": "中国智造",
+				"enablePullDownRefresh": false
+			}
+			
+		}
+		,{
+			"path" : "pages/mypages/xianxuan/china_zhizao/changshang_de",
+			"style" :                                                                                    
+			{
+				"navigationBarTitleText": "厂商详情",
+				"enablePullDownRefresh": false
+			}
+			
+		}
+		,{
+			"path" : "pages/mypages/xianxuan/china_zhizao/chanpin_de",
+			"style" :                                                                                    
+			{
+				"navigationBarTitleText": "产品和解决方案详情",
+				"enablePullDownRefresh": false
+			}
+			
+		}
+		,{
+			"path" : "pages/mypages/xianxuan/china_zhizao/changshanglist/changshanglist",
+			"style" :                                                                                    
+			{
+				"navigationBarTitleText": "厂商列表",
+				"enablePullDownRefresh": false
+			}
+			
+		}
+		,{
+			"path" : "pages/mypages/xianxuan/china_zhizao/chanpinlist/chanpinlist",
+			"style" :                                                                                    
+			{
+				"navigationBarTitleText": "产品列表",
+				"enablePullDownRefresh": false
+			}
+			
+		}
+		,{
+			"path" : "pages/mypages/xianxuan/china_zhizao/zhanhuihuodong/zhanhuihuodong",
+			"style" :                                                                                    
+			{
+				"navigationBarTitleText": "展会活动",
+				"enablePullDownRefresh": false
+			}
+			
+		}
+		,{
+			"path" : "pages/mypages/xianxuan/china_zhizao/zhanhuihuodong/zhanhui_details",
+			"style" :                                                                                    
+			{
+				"navigationBarTitleText": "展会详情",
+				"enablePullDownRefresh": false
+			}
+			
+		}
+		,{
+			"path" : "pages/mypages/xianxuan/china_zhizao/zhanhuihuodong/result_baoming",
+			"style" :                                                                                    
+			{
+				"navigationBarTitleText": "报名结果",
+				"enablePullDownRefresh": false
+			}
+			
+		}
+		,{
+			"path" : "pages/mypages/xianxuan/china_zhizao/zhaopin/zhaopin",
+			"style" :                                                                                    
+			{
+				"navigationBarTitleText": "厂商招聘",
+				"enablePullDownRefresh": false
+			}
+			
+		}
+		,{
+			"path" : "pages/mypages/xianxuan/china_zhizao/zhaopin/zhaopin_de",
+			"style" :                                                                                    
+			{
+				"navigationBarTitleText": "招聘详情",
+				"enablePullDownRefresh": false
+			}
+			
+		}
+		,{
+			"path" : "pages/mypages/xianxuan/china_zhizao/ruzhu/ruzhu",
+			"style" :                                                                                    
+			{
+				"navigationBarTitleText": "厂商入驻",
+				"enablePullDownRefresh": false
+			}
+			
+		}
+		
+		
     ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",

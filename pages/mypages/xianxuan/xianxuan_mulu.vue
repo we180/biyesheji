@@ -77,10 +77,10 @@
 		},
 		methods: {
 			choose_mokuai(id){
-				if(id==0){
-					console.log(id)
-				}else if(id==1){
-					console.log(id)
+				if(id==6){
+					uni.navigateTo({
+						url:'china_zhizao/china_zhizao'
+					})
 				}
 			}
 		}
