@@ -1677,7 +1677,125 @@
 		
 		
 		
+		//固定模块 精准扶贫
+		,{
+		    "path" : "pages/mypages/xianxuan/jingzhunfupin/jingzhunfupin",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "精准扶贫",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/jingzhunfupin/news/newslist",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "新闻",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/jingzhunfupin/news/news_de",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "新闻详情",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
 		
+		,{
+		    "path" : "pages/mypages/xianxuan/jingzhunfupin/anli/anli",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "扶贫案例",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/jingzhunfupin/anli/anli_details",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "扶贫详情",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/jingzhunfupin/cunqing/cunqing",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "村情村貌",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/jingzhunfupin/cunqing/cunqing_details",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "村情村貌详情",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/jingzhunfupin/cunqing/woyaofuping",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "我要扶贫",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/jingzhunfupin/work/work",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "工作台",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/jingzhunfupin/work/qiuzhu/qiuzhu",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "扶贫求助",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/jingzhunfupin/work/bangfu/bangfu",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "我帮扶的",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/jingzhunfupin/work/zoufang/zoufang",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "入户走访",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/jingzhunfupin/work/myanli/myanli",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "我的案例",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
 		
 		
 		

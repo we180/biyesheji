@@ -98,6 +98,10 @@
 					uni.navigateTo({
 						url:'shidaikaimo/shidaikaimo'
 					})
+				}else if(id==0){
+					uni.navigateTo({
+						url:'jingzhunfupin/jingzhunfupin'
+					})
 				}
 			}
 		}
