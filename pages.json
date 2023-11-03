@@ -1295,6 +1295,155 @@
 		}
 		
 		
+		//模块固定 智慧社区
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuishequ/zhihuishequ",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "智慧社区",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuishequ/wujianguanli/wujianguanli",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "物件管理",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuishequ/wujianguanli/fankui",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "反馈",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuishequ/wujianguanli/fankui_de",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuishequ/kuaijianguanli/kuaijianguanli",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "快件管理",
+		        "enablePullDownRefresh": false,
+				"navigationStyle":"custom"
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuishequ/kuaijianguanli/yizhan_de",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "驿站详情",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuishequ/shejiao/shejiao",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "友邻社交",
+		        "enablePullDownRefresh": false,
+				"navigationStyle":"custom"
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuishequ/shejiao/shejiao_de",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "详情",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuishequ/shejiao/fabiao",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "发表",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuishequ/tuiguang/tuiguang",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "商业推广",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuishequ/tuiguang/tuiguang_de",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "详情",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuishequ/tuiguang/result",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "提交结果",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuishequ/cheliangguanli/cheliangguanli",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "车辆管理",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuishequ/cheliangguanli/addcar",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "添加车辆",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuishequ/cheliangguanli/changecar",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "编辑车辆",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuishequ/shequ_index",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "详情",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		
+		
     ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
