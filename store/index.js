@@ -34,6 +34,8 @@ const store = new Vuex.Store({
 		vuex_user: lifeData.vuex_user ? lifeData.vuex_user : {name: '明月'},
 		vuex_token: lifeData.vuex_token ? lifeData.vuex_token : '',
 		baseUrl:lifeData.baseUrl ? lifeData.baseUrl : 'http://192.168.23.91:10001',
+		adviselist:lifeData.adviselist ? lifeData.adviselist : [],
+		shequcar_list:lifeData.shequcar_list ? lifeData.shequcar_list : [],
 		//http://192.168.23.91:10001
 		// 如果vuex_version无需保存到本地永久存储，无需lifeData.vuex_version方式
 		vuex_version: '1.0.1',

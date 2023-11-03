@@ -1443,6 +1443,145 @@
 		    
 		}
 		
+		//固定模块 智慧党建
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuidangjian/zhihuidangjian",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "智慧党建",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuidangjian/dangjiandongtai",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "党建动态",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuidangjian/dongtai_details",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "动态详情",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuidangjian/dangyuanxuexi/dangyuanxuexi",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "党员学习",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuidangjian/dangyuanxuexi/xuexi_de",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "学习详情",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuidangjian/dangyuanxuexi/xuexi_comment",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "评论",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuidangjian/zuzhihuodong/zuzhihuodong",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "组织活动",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuidangjian/zuzhihuodong/hudong_de",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "活动详情",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuidangjian/zuzhihuodong/baoming",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "活动报名",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuidangjian/zuzhihuodong/baoming_finish",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "报名结果",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuidangjian/adivse/adivse",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "建言献策",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuidangjian/paizhao/paizhao",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "随手拍",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuidangjian/paizhao/tijiao",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "提交成功",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuidangjian/adivse/addadvise",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "新增",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
     ],
 	"globalStyle": {
