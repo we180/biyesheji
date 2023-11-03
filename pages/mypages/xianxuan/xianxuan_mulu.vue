@@ -94,6 +94,10 @@
 					uni.navigateTo({
 						url:'zhihuidangjian/zhihuidangjian'
 					})
+				}else if(id==1){
+					uni.navigateTo({
+						url:'shidaikaimo/shidaikaimo'
+					})
 				}
 			}
 		}

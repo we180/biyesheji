@@ -1572,6 +1572,109 @@
 		}
 		
 		
+		//固定模块 时代楷模
+		
+		,{
+		    "path" : "pages/mypages/xianxuan/shidaikaimo/shidaikaimo",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "时代楷模",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/shidaikaimo/kaimo_list/kaimo_list",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "楷模列表",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/shidaikaimo/kaimo_list/kaimo_de",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "楷模详情",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/shidaikaimo/hero_story/hero_story",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "英雄故事",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/shidaikaimo/hero_story/hero_story_de",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "英雄故事详情",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/shidaikaimo/xuexixinde/xuexixinde",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "学习心得",
+		        "enablePullDownRefresh": false,
+				"navigationStyle":"custom"
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/shidaikaimo/gongyihuodong/gongyihuodong",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "公益活动",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/shidaikaimo/gongyihuodong/huodong_de",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "公益活动详情",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/shidaikaimo/nearhero/nearhero",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "身边的英雄",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/shidaikaimo/xuexixinde/xuexi_history",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "学习历史",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/shidaikaimo/gongyihuodong/huodong_faqi",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "活动发起",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		
 		
 		
 		
