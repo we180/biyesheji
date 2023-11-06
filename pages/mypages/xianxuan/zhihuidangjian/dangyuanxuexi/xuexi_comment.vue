@@ -19,7 +19,7 @@
 		</view>
 		<view class="all-reply">
 			<view class="all-reply-top">全部回复（{{ comment.allReply }}）</view>
-			<view class="item" v-for="(item, index) in commentList" :key="index">
+			<view class="item">
 				<view class="comment">
 					<view class="top">
 						<view class="left">

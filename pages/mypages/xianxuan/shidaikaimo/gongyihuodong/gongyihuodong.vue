@@ -1,6 +1,6 @@
 <template>
 	<view>
-		<view class="huodonglist" v-for="(item,huodongid) in 1" :key="huodongid">
+		<view class="huodonglist">
 			<view class="huodong" @click="tohuodong_de">
 				<u-image src="../../../../../static/myimgs/myimg_kaimo/597403047627b05a75c3dd.jpg" width="100%" height="220rpx"></u-image>
 				<h2>金银花药材种植</h2>

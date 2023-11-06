@@ -1,7 +1,7 @@
 <template>
 	<view>
 		<view class="">
-			<view class="advise" v-for="(item,index) in adviselist" :key="index">
+			<view class="advise">
 				<text>姓名:{{item.name}}</text>
 				<text>手机号:{{item.phone}}</text>
 				<text>内容:{{item.content}}</text>

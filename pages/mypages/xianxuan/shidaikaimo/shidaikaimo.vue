@@ -15,7 +15,7 @@
 		<view class="list">
 			<view class="kaimolist">
 				<u-section title="时代楷模精神" font-size="40" :right="false"></u-section>
-				<view class="kaimo" v-for="(item,kaimoid) in 1" :key="kaimoid">
+				<view class="kaimo">
 					<u-row>
 						<u-col span="4">
 							<u-image src="../../../../static/myimgs/myimg_kaimo/W020211011361082030178.png" width="100%"
@@ -26,6 +26,7 @@
 							<text class="u-line-5">孙景坤在革命战争年代冲锋陷阵、不怕牺牲。在解放战争中，他先后参加四平战役、辽沈战役、平津战役、解放长沙战役和解放海南岛战役，荣立二等功两次、三等功一次，被授予解放东北纪念章、解放华北纪念章、解放华中南纪念章和解放海南岛纪念章</text>
 						</u-col>
 					</u-row>
+					<u-gap></u-gap>
 					<u-row>
 						<u-col span="4">
 							<u-image src="../../../../static/myimgs/myimg_kaimo/1.png" width="100%"
