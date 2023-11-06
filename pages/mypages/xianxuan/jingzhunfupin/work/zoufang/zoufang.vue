@@ -2,33 +2,33 @@
 	<view>
 		<view class="huzhulist">
 			<view class="huzhu">
-				<h2>新日暮里下北泽村114号</h2>
-				<h3>户主：田所浩二</h3>
+				<h2>汝南县板店乡</h2>
+				<h3>王明华</h3>
 				<u-button type="success" @click="show=true">走访</u-button>
 			</view>
 			<view class="huzhu">
-				<h2>新日暮里下北泽村114号</h2>
-				<h3>户主：田所浩二</h3>
+				<h2>玉门市独山子乡金旺村</h2>
+				<h3>李晓红</h3>
 				<u-button type="success" @click="show=true">走访</u-button>
 			</view>
 			<view class="huzhu">
-				<h2>新日暮里下北泽村114号</h2>
-				<h3>户主：田所浩二</h3>
+				<h2>木林坪社区</h2>
+				<h3>张伟</h3>
 				<u-button type="success" @click="show=true">走访</u-button>
 			</view>
 			<view class="huzhu">
-				<h2>新日暮里下北泽村114号</h2>
-				<h3>户主：田所浩二</h3>
+				<h2>临夏县尹集镇大滩村</h2>
+				<h3>王娟</h3>
 				<u-button type="success" @click="show=true">走访</u-button>
 			</view>
 			<view class="huzhu">
-				<h2>新日暮里下北泽村114号</h2>
-				<h3>户主：田所浩二</h3>
+				<h2>兴山县榛子乡育林村</h2>
+				<h3>张涛</h3>
 				<u-button type="success" @click="show=true">走访</u-button>
 			</view>
 			<view class="huzhu">
-				<h2>新日暮里下北泽村114号</h2>
-				<h3>户主：田所浩二</h3>
+				<h2>五峰县湾潭镇三台坡村</h2>
+				<h3>李娜</h3>
 				<u-button type="success" @click="show=true">走访</u-button>
 			</view>
 		</view>

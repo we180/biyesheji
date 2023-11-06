@@ -1797,6 +1797,72 @@
 		    
 		}
 		
+		//固定模块 智慧环保
+		
+		
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuihuanbao/zhihuihuanbao",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "智慧环保",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuihuanbao/lajizhanshi/lajizhanshi",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "垃圾物品展示",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/mypages/xianxuan/zhihuihuanbao/xinxiyuliu/xinxiyuliu",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "信息预留",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+            "path" : "pages/mypages/xianxuan/zhihuihuanbao/huishouji/huishouji",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "附近回收机",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/xianxuan/zhihuihuanbao/yuyue_shangmen/yuyue_shangmen",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "预约上门回收垃圾",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mypages/xianxuan/zhihuihuanbao/yuyue_history/yuyue_history",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "预约回收垃圾历史",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 		
