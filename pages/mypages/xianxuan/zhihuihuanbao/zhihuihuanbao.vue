@@ -25,6 +25,7 @@
 					<text class="u-line-4">西安市智慧环保综合指挥中心工作人员前往经开区、未央区和国际港务区检查，并开展以防治扬尘污染为主题的“西安生态日”进企业宣传活动，鼓励广大职工主动投身到蓝天保卫战中。</text>
 				</u-col>
 			</u-row>
+			<u-gap></u-gap>
 			<u-row>
 				<u-col span="4">
 					<u-image width="100%" height="250rpx" src="../../../../static/myimgs/myimg_huanbao/1.png"></u-image>
@@ -34,6 +35,7 @@
 					<text class="u-line-4">3月份以来，西安市空气质量受PM10污染影响较大，工地扬尘又是PM10的重要来源。为强化施工单位扬尘防护意识，减少建筑施工工地现场扬尘污染，不给“西安蓝”增灰，近日，西安市智慧环保综合指挥中心工作人员针对未央区、浐灞生态区和曲江新区的部分建筑工地进行随机摸底督导检查，并向工地相关负责人发放扬尘防治海报，宣传讲解扬尘污染防治的意义和相关措施。</text>
 				</u-col>
 			</u-row>
+			<u-gap></u-gap>
 			<u-row>
 				<u-col span="4">
 					<u-image width="100%" height="250rpx" src="../../../../static/myimgs/myimg_huanbao/2.png"></u-image>

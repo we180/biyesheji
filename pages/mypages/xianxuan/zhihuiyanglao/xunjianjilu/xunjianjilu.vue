@@ -10,7 +10,7 @@
 					<h3>8:30</h3>
 					<view>
 						<text style="font-size: 40rpx;margin-right: 20rpx;">加肯特</text>
-						<text class="u-tips-color">地牢领主</text>
+						<text class="u-tips-color">营养师</text>
 						<u-button type="primary" size="mini" style="float: right;width: 150rpx;" @click="pingjia">评价</u-button>
 					</view>
 					<text>厨房整洁，厕所整洁，卧室地面干净，房间内垃圾已处理，老人各项状态正常，环境稳定</text>
@@ -19,7 +19,7 @@
 					<h3>12:30</h3>
 					<view>
 						<text style="font-size: 40rpx;margin-right: 20rpx;">缪恩</text>
-						<text class="u-tips-color">地牢领主</text>
+						<text class="u-tips-color">营养师</text>
 						<u-button type="primary" size="mini" style="float: right;width: 150rpx;"  @click="pingjia">评价</u-button>
 					</view>
 					<text>厨房整洁，厕所整洁，卧室地面干净，房间内垃圾已处理，老人各项状态正常，环境稳定</text>
@@ -28,7 +28,7 @@
 					<h3>4:30</h3>
 					<view>
 						<text style="font-size: 40rpx;margin-right: 20rpx;">冷峰</text>
-						<text class="u-tips-color">地牢领主</text>
+						<text class="u-tips-color">营养师</text>
 						<u-button type="primary" size="mini" style="float: right;width: 150rpx;"  @click="pingjia">评价</u-button>
 					</view>
 					<text>厨房整洁，厕所整洁，卧室地面干净，房间内垃圾已处理，老人各项状态正常，环境稳定</text>
@@ -41,7 +41,7 @@
 					<h3>8:30</h3>
 					<view>
 						<text style="font-size: 40rpx;margin-right: 20rpx;">青雀</text>
-						<text class="u-tips-color">地牢领主</text>
+						<text class="u-tips-color">营养师</text>
 						<u-button type="primary" size="mini" style="float: right;width: 150rpx;"  @click="pingjia">评价</u-button>
 					</view>
 					<text>厨房整洁，厕所整洁，卧室地面干净，房间内垃圾已处理，老人各项状态正常，环境稳定</text>
@@ -50,7 +50,7 @@
 					<h3>12:30</h3>
 					<view>
 						<text style="font-size: 40rpx;margin-right: 20rpx;">艾伦</text>
-						<text class="u-tips-color">地牢领主</text>
+						<text class="u-tips-color">营养师</text>
 						<u-button type="primary" size="mini" style="float: right;width: 150rpx;"  @click="pingjia">评价</u-button>
 					</view>
 					<text>厨房整洁，厕所整洁，卧室地面干净，房间内垃圾已处理，老人各项状态正常，环境稳定</text>
@@ -59,7 +59,7 @@
 					<h3>4:30</h3>
 					<view>
 						<text style="font-size: 40rpx;margin-right: 20rpx;">埃斯蒂尼安</text>
-						<text class="u-tips-color">地牢领主</text>
+						<text class="u-tips-color">营养师</text>
 						<u-button type="primary" size="mini" style="float: right;width: 150rpx;"  @click="pingjia">评价</u-button>
 					</view>
 					<text>厨房整洁，厕所整洁，卧室地面干净，房间内垃圾已处理，老人各项状态正常，环境稳定</text>
