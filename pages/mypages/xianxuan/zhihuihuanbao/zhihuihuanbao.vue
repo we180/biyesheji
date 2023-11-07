@@ -15,7 +15,7 @@
 		</view>
 		<u-gap></u-gap>
 		<u-section title="环境宣传" font-size="40" :right="false"></u-section>
-		<view class="huanjingxuanchuan" v-for="(item,index) in 1" :key="index">
+		<view class="huanjingxuanchuan">
 			<u-row>
 				<u-col span="4">
 					<u-image width="100%" height="250rpx" src="../../../../static/myimgs/myimg_huanbao/u=1299061469,111270754&fm=26&fmt=auto&gp=0.jpg"></u-image>
