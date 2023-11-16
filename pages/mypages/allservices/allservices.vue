@@ -93,6 +93,10 @@
 					uni.navigateTo({
 						url:'aixingongyi/aixingongyi'
 					})
+				}else if(id==1){
+					uni.navigateTo({
+						url:"menzhen/menzhen"
+					})
 				}
 				
 				else{
